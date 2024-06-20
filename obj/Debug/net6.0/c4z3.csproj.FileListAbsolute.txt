@@ -1,0 +1,15 @@
+D:\Учеба\ДЗ\c4z3\obj\Debug\net6.0\c4z3.csproj.AssemblyReference.cache
+D:\Учеба\ДЗ\c4z3\obj\Debug\net6.0\c4z3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\ДЗ\c4z3\obj\Debug\net6.0\c4z3.AssemblyInfoInputs.cache
+D:\Учеба\ДЗ\c4z3\obj\Debug\net6.0\c4z3.AssemblyInfo.cs
+D:\Учеба\ДЗ\c4z3\obj\Debug\net6.0\c4z3.csproj.CoreCompileInputs.cache
+D:\Учеба\ДЗ\c4z3\bin\Debug\net6.0\c4z3.exe
+D:\Учеба\ДЗ\c4z3\bin\Debug\net6.0\c4z3.deps.json
+D:\Учеба\ДЗ\c4z3\bin\Debug\net6.0\c4z3.runtimeconfig.json
+D:\Учеба\ДЗ\c4z3\bin\Debug\net6.0\c4z3.dll
+D:\Учеба\ДЗ\c4z3\bin\Debug\net6.0\c4z3.pdb
+D:\Учеба\ДЗ\c4z3\obj\Debug\net6.0\c4z3.dll
+D:\Учеба\ДЗ\c4z3\obj\Debug\net6.0\refint\c4z3.dll
+D:\Учеба\ДЗ\c4z3\obj\Debug\net6.0\c4z3.pdb
+D:\Учеба\ДЗ\c4z3\obj\Debug\net6.0\c4z3.genruntimeconfig.cache
+D:\Учеба\ДЗ\c4z3\obj\Debug\net6.0\ref\c4z3.dll
